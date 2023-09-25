@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861768430209",
+    "project_id": "push-notifications-1227e",
+    "storage_bucket": "push-notifications-1227e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861768430209:android:e85e36d19f6eaea7465380",
+        "android_client_info": {
+          "package_name": "com.example.intixel_sport_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861768430209-0dsi1q2lqgn4augii8nmjsqh2bt3v567.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY0_G4nuvo93FoLAF38lRbI0W5WQ977o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861768430209-0dsi1q2lqgn4augii8nmjsqh2bt3v567.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
